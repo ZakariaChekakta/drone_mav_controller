@@ -1,0 +1,11 @@
+<launch>
+
+  <node pkg="fuzzy_pd_controller" type="fuzzy_pd_controller_node" name="fuzzy_pd_controller" respawn="true" clear_params="true" output="screen">
+                 
+  </node>
+
+<node pkg="fuzzy_logic_control" type="fuzzy_logic_control_node" name="fuzzy_logic_control" output="screen">
+                 
+  </node>
+
+</launch>

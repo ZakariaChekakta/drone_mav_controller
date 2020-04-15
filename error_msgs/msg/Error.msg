@@ -1,0 +1,6 @@
+float64 Error_position_x
+float64 Error_position_y
+float64 Error_position_z
+float64 Error_velocite_x
+float64 Error_velocite_y
+float64 Error_velocite_z

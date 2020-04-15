@@ -1,0 +1,3 @@
+geometry_msgs/PoseStamped position_desired
+geometry_msgs/TwistStamped velocite_desired 
+geometry_msgs/AccelStamped acceleration_desired
