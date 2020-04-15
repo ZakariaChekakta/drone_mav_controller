@@ -1,0 +1,9 @@
+kp_x: 1
+kd_x: 0.1
+kp_y: 1
+kd_y: 0.01
+kp_z: 1
+kd_z: 1.8
+subscriber_topic: /ground_truth/state
+
+

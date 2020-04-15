@@ -1,0 +1,7 @@
+<launch>
+
+  <node pkg="pd_controller" type="pd_controller_node" name="pd_controller" respawn="true" clear_params="true" output="screen">
+                  <rosparam command="load" file="$(find pd_controller)/resources/config.yaml" />
+  </node>
+
+</launch>
