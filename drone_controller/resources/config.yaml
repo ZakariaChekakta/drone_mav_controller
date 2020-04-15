@@ -1,0 +1,11 @@
+kp_x: 0
+kd_x: 0
+kp_y: 1
+kd_y: 0.01
+kp_z: 1
+kd_z: 1.8
+kp_yaw: 1.5
+kd_yaw: 0.4
+
+
+

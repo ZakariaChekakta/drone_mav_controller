@@ -1,0 +1,8 @@
+<launch>
+
+  <node pkg="drone_controller" type="drone_controller_node" name="drone_controller" respawn="true" clear_params="true" output="screen">
+  </node>
+
+  
+
+</launch>
